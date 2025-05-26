@@ -1,0 +1,8 @@
+matplotlib==2.0.0
+six==1.6.0
+tensorflow==1.15.0
+opencv-python==4.5.5.64
+numpy==1.21.6
+argparse==1.4.0
+pillow==9.2.0
+protobuf==3.20.1
